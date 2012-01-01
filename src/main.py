@@ -2,7 +2,7 @@ import sys
 from os import path
 
 from package import *
-from package.qt_import import *
+from package.qt_import import QApplication
 
 app = QApplication(sys.argv)
 

@@ -1,7 +1,6 @@
 #generalimporteur von 'package'
 
 import qt_import
-from qt_import import QApplication
 from graphics import *
 
-__all__ = ['CustomView', 'CustomScene', 'CustomItem', 'qt_import', 'QApplication']
+__all__ = ['CustomView', 'CustomScene', 'CustomItem', 'qt_import']
